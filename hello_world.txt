@@ -1,1 +1,2 @@
 Modificando txt
+Probando git commit sin modificador -M
